@@ -1,4 +1,4 @@
-# CustomeVideoPlayerIosAVPlayer
+# Custom VideoPlayer Ios AVPlayer
 
 **AVPlayer was used to create a custom video player.**</br>
 
